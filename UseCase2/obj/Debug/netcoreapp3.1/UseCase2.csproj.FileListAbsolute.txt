@@ -1,0 +1,14 @@
+E:\bridgelab\UseCase2\UseCase2\bin\Debug\netcoreapp3.1\UseCase2.exe
+E:\bridgelab\UseCase2\UseCase2\bin\Debug\netcoreapp3.1\UseCase2.deps.json
+E:\bridgelab\UseCase2\UseCase2\bin\Debug\netcoreapp3.1\UseCase2.runtimeconfig.json
+E:\bridgelab\UseCase2\UseCase2\bin\Debug\netcoreapp3.1\UseCase2.runtimeconfig.dev.json
+E:\bridgelab\UseCase2\UseCase2\bin\Debug\netcoreapp3.1\UseCase2.dll
+E:\bridgelab\UseCase2\UseCase2\bin\Debug\netcoreapp3.1\UseCase2.pdb
+E:\bridgelab\UseCase2\UseCase2\obj\Debug\netcoreapp3.1\UseCase2.csproj.AssemblyReference.cache
+E:\bridgelab\UseCase2\UseCase2\obj\Debug\netcoreapp3.1\UseCase2.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\UseCase2\UseCase2\obj\Debug\netcoreapp3.1\UseCase2.AssemblyInfoInputs.cache
+E:\bridgelab\UseCase2\UseCase2\obj\Debug\netcoreapp3.1\UseCase2.AssemblyInfo.cs
+E:\bridgelab\UseCase2\UseCase2\obj\Debug\netcoreapp3.1\UseCase2.csproj.CoreCompileInputs.cache
+E:\bridgelab\UseCase2\UseCase2\obj\Debug\netcoreapp3.1\UseCase2.dll
+E:\bridgelab\UseCase2\UseCase2\obj\Debug\netcoreapp3.1\UseCase2.pdb
+E:\bridgelab\UseCase2\UseCase2\obj\Debug\netcoreapp3.1\UseCase2.genruntimeconfig.cache
